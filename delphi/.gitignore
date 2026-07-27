@@ -1,0 +1,32 @@
+# Arquivos compilados
+*.exe
+*.dcu
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dylib
+*.res
+*.dll
+
+# Diretórios de saída
+__history/
+__recovery/
+Win32/
+Win64/
+
+# Banco de dados
+*.db
+dados.db
+
+# IDE
+*.identcache
+*.local
+*.groupproj.local
+
+# Arquivos de projeto
+*.rsm
+*.bak
+*.~*
+*.log
